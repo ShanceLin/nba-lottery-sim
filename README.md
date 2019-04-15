@@ -10,6 +10,6 @@ To run:
 Edit standings.txt (or make your own text file) with the standings of the teams in order from best to worst.
 
 Run the script with
-''python3 main.py standings.txt''
+``python3 main.py standings.txt``
 
 The results will be printed!
